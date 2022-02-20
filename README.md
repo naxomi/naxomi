@@ -16,6 +16,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=naxomi&show_icons=true&theme=cobalt&count_private=true" alt="Raphaël Anjou's GitHub Stats"/>
     </a>
 </div>
+
 ## :school: School projects
 
 ![Peip2 Arduino Project](https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip2-arduino-project&theme=cobalt)
