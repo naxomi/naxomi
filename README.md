@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/raphael-anjou/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/raphael-anjou/">
+  <a href="https://www.flickr.com/people/raphael-anjou/">
     <img src="https://img.shields.io/badge/Flickr-blue?logo=flickr&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
