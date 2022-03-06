@@ -24,23 +24,11 @@
 
 ## :computer: Personal projects
 
-### 1. Flutter development : Building a cross-platform app for a teacher.
-
-It's still the beginning of the project. I'm learning how to properly use Flutter and Dart. I don't plan on making the
-project or the code public at the moment as the idea could be stolen otherwise. I might do it when the project will be
-more advanced.
-
-**Books I use :**
-
-- _Beginning App Development with Flutter_ |---| Rap Payne
-- _Flutter Cookbook Over 100 proven techniques and solutions for app development with Flutter 2.2 and Dart_ |---| Simone
-  Alessandria, Brian Kayfitz
-
-### 2. Java best practices
+### 1. Java best practices
 
 We are currently using Java in our **"Algorithms and Data Structures"** class, and I want to code the correct way.
 That's why I'm trying to learn the best practices, how to comment correctly my code to be able to create JavaDocs, how
-to do unit testing (with Junit5) or how to build correctly the structure of my code.
+to do unit testing (with Junit5 and Mockito) or how to build correctly the structure of my code.
 
 **Books I use :**
 
