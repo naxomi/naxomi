@@ -17,11 +17,6 @@
     </a>
 </div>
 
-## :school: School projects
-
-![Peip2 Arduino Project](https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip2-arduino-project&theme=cobalt)
-![Peip2 Algorithmique et Structure de données](https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip2-algorithmique-et-structure-donnees&theme=cobalt)
-
 ## :computer: Personal projects
 
 ### 1. Java best practices
