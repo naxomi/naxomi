@@ -1,6 +1,9 @@
 ### Hi there 👋 My name is Raphaël Anjou and I'm actually a student in Polytech Nice Sophia (Peip 2).
 
-<div style="text-align: center">
+<div style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
   <a href="https://www.linkedin.com/in/raphael-anjou/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,7 +14,10 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<div style="text-align: center">
+<div style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=naxomi&show_icons=true&theme=cobalt&count_private=true" alt="Raphaël Anjou's GitHub Stats"/>
     </a>
