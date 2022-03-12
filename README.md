@@ -50,22 +50,15 @@ This project was developed as part of an Object-Oriented Class with Python in my
 We had to follow the code structure of the teacher for nearly the whole project. The teacher gave us more liberty near
 the end, which allowed us get more creative with our work and try to code more complicated features.
 
-<div style="  display: block;
-              margin-left: auto;
-              margin-right: auto;
-              width: 50%;">
-    <a href="https://github.com/naxomi/peip1-python-rogue-like-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip1-python-rogue-like-game&theme=cobalt" 
-            alt="Python Rogue-Like Game"/>
-    </a>
-</div>
-
 <p align="center">
-  <img 
+    <a href="https://github.com/naxomi/peip1-python-rogue-like-game">
+    <img 
     width="300"
     height="300"
-    src="https://picsum.photos/300/300"
-  >
+    src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip1-python-rogue-like-game&theme=cobalt"
+    alt="Python Rogue-Like Game"
+    >
+    </a>
 </p>
 
 ## :computer: Personal projects
