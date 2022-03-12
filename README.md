@@ -60,6 +60,11 @@ the end, which allowed us get more creative with our work and try to code more c
     </a>
 </div>
 
+<p>
+<img src="https://i.stack.imgur.com/RJj4x.png"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+</p>
+
 ## :computer: Personal projects
 
 ### 1. Website for a teacher
