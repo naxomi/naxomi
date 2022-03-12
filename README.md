@@ -1,27 +1,21 @@
 ### Hi there 👋 My name is Raphaël Anjou, and I'm currently a student in Polytech Nice Sophia (Peip 2) aiming to go in the Computer Science course of Polytech Nice Sophia as a work-study student.
 
-<div style="  display: block;
-              margin-left: auto;
-              margin-right: auto;
-              width: 50%;">
+<p align="center">
   <a href="https://www.linkedin.com/in/raphael-anjou/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.flickr.com/people/raphael-anjou/">
     <img src="https://img.shields.io/badge/Flickr-blue?logo=flickr&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</p>
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<div style="  display: block;
-              margin-left: auto;
-              margin-right: auto;
-              width: 50%;">
+<p align="center">
     <a href="https://github.com/naxomi">
         <img src="https://github-readme-stats.vercel.app/api?username=naxomi&show_icons=true&theme=cobalt&count_private=true" alt="Raphaël Anjou's GitHub Stats"/>
     </a>
-</div>
+</p>
 
 ## :school: University projects
 
@@ -32,15 +26,12 @@
 This project consisted in building a robot dog using Arduino hardware.  
 Here is an image of the robot :
 
-<div style="  display: block;
-              margin-left: auto;
-              margin-right: auto;
-              width: 50%;">
+<p align="center">
     <a href="https://github.com/naxomi/peip2-arduino-project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip2-arduino-project&theme=cobalt" 
             alt="Peip2 Arduino Project"/>
     </a>
-</div>
+</p>
 
 ### 2. Rogue-like game
 
@@ -52,11 +43,9 @@ the end, which allowed us get more creative with our work and try to code more c
 
 <p align="center">
     <a href="https://github.com/naxomi/peip1-python-rogue-like-game">
-    <img 
-    width="300"
-    height="300"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip1-python-rogue-like-game&theme=cobalt"
-    alt="Python Rogue-Like Game"
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip1-python-rogue-like-game&theme=cobalt"
+        alt="Python Rogue-Like Game"
     >
     </a>
 </p>
@@ -86,15 +75,12 @@ whole line again.
 As you learn more and more variants, the ones you know the best will appear less often than the ones you've never 
 learned, or the ones you've failed recently. 
 
-<div style="  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
+<p align="center">
     <a href="https://github.com/naxomi/https://github.com/naxomi/chess-openings-learner">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=chess-openings-learner&theme=cobalt" 
             alt="Chess Openings Learner"/>
     </a>
-</div>
+</p>
 
 ### 3. Java best practices
 
