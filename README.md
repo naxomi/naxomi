@@ -26,7 +26,7 @@
 This project consisted in building a robot dog using Arduino hardware.  
 Here is an image of the robot :
 
-<p align="center" style="width: 50%">
+<p align="center" style="width: 30%">
     <a href="https://github.com/naxomi/naxomi/blob/main/images/robot-exploded-view-without-background.png">
         <img src="https://raw.githubusercontent.com/naxomi/naxomi/main/images/robot-exploded-view-without-background.png"
             alt="PolyDog Robot Exploded View"/>
