@@ -60,9 +60,12 @@ the end, which allowed us get more creative with our work and try to code more c
     </a>
 </div>
 
-<p>
-<img src="https://i.stack.imgur.com/RJj4x.png"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://picsum.photos/300/300"
+  >
 </p>
 
 ## :computer: Personal projects
