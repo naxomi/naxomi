@@ -27,6 +27,13 @@ This project consisted in building a robot dog using Arduino hardware.
 Here is an image of the robot :
 
 <p align="center">
+    <a href="https://github.com/naxomi/naxomi/blob/main/images/robot-exploded-view-without-background.png">
+        <img src="https://raw.githubusercontent.com/naxomi/naxomi/main/images/robot-exploded-view-without-background.png"
+            alt="PolyDog Robot Exploded View"/>
+    </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/naxomi/peip2-arduino-project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=peip2-arduino-project&theme=cobalt" 
             alt="Peip2 Arduino Project"/>
