@@ -83,7 +83,7 @@ As you learn more and more variants, the ones you know the best will appear less
 learned, or the ones you've failed recently. 
 
 <p align="center">
-    <a href="https://github.com/naxomi/https://github.com/naxomi/chess-openings-learner">
+    <a href="https://github.com/naxomi/chess-openings-trainer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=naxomi&repo=chess-openings-learner&theme=cobalt" 
             alt="Chess Openings Learner"/>
     </a>
