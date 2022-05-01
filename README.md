@@ -43,7 +43,7 @@ Here is an image of the robot :
 
 ### 2. Rogue-like game
 
-**From March 2021 to June 2022**
+**From March 2021 to June 2021**
 
 **⚠️️ ️WARNING ⚠️ : The code needs a lot of refactoring. The core of the code was created from the teacher and wasn't
 allowing us to store classes in separate files (problems of circular import).** 
