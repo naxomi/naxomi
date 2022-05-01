@@ -22,17 +22,13 @@
 ### 1. PolyDog Robot
 
 **From November 2021 to March 2022 for the V1**  
-**From March 2022 to now for the V2**
+**From March 2022 to now for the V2**@
 
 This project consisted in building a robot dog using Arduino hardware.  
 Here is an image of the robot :
 
-<p align="center" style="width: 30%">
-    <a href="https://github.com/naxomi/naxomi/blob/main/images/robot-exploded-view-without-background.png">
-        <img src="https://raw.githubusercontent.com/naxomi/naxomi/main/images/robot-exploded-view-without-background.png"
-            alt="PolyDog Robot Exploded View"/>
-    </a>
-</p>
+![Polydog robot exploded view](images/robot-V1-exploded-view.png)
+![Polydog robot](images/robot-V1-real.png)
 
 <p align="center">
     <a href="https://github.com/naxomi/peip2-arduino-project">
