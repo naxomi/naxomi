@@ -27,8 +27,9 @@
 This project consisted in building a robot dog using Arduino hardware.  
 Here is an image of the robot :
 
-![Polydog robot exploded view](images/robot-V1-exploded-view.png)
-![Polydog robot](images/robot-V1-real.png)
+| Polydog Exploded View   |      Polydog in the grass      |
+|:----------:|:-------------:|
+| ![Polydog robot exploded view](images/robot-V1-exploded-view.png) |  ![Polydog robot](images/robot-V1-real.png) |
 
 <p align="center">
     <a href="https://github.com/naxomi/peip2-arduino-project">
@@ -42,7 +43,7 @@ Here is an image of the robot :
 **From March 2021 to June 2021**
 
 **⚠️️ ️WARNING ⚠️ : The code needs a lot of refactoring. The core of the code was created from the teacher and wasn't
-allowing us to store classes in separate files (problems of circular import).** 
+allowing us to store classes in separate files (problems of circular import).**
 
 This project was developed as part of an Object-Oriented Class with Python in my first year of university.  
 We had to follow the code structure of the teacher for nearly the whole project. The teacher gave us more liberty near
