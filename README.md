@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="https://github.com/naxomi">
-        <img src="https://github-readme-stats.vercel.app/api?username=naxomi&show_icons=true&theme=cobalt&count_private=true" alt="Raphaël Anjou's GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=neoteristis&show_icons=true&theme=cobalt&count_private=true" alt="Raphaël Anjou's GitHub Stats"/>
     </a>
 </p>
 
