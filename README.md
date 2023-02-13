@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Raphaël Anjou, and I'm currently a student in Polytech Nice Sophia (Peip 2) aiming to go in the Computer Science course of Polytech Nice Sophia as a work-study student.
+### Hi there 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raphael-anjou/">
